@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For You ❤️</title>
+  <style>
+    body {
+      background: #ffe6f0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+      color: #5c2a3d;
+    }
+    h1 {
+      font-size: 36px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .heart {
+      font-size: 30px;
+      animation: beat 1s infinite;
+    }
+    @keyframes beat {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+      100% { transform: scale(1); }
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Hi My Love 💕</h1>
+<p>This little website is only for you.</p>
+<p>Scroll slowly 🫶</p>
+
+<div class="heart">❤️</div>
+
+<p>
+We met.  
+We talked.  
+We fell in love.  
+And I never want to stop choosing you.
+</p>
+
+<p>
+You make my bad days better.  
+You make my good days brighter.  
+You are my favorite person.
+</p>
+
+<p>
+I may not be perfect,  
+but my love for you is real and endless 💖
+</p>
+
+<h1>Will You Be My Valentine? ❤️</h1>
+<p>Today. Tomorrow. Always.</p>
+
+</body>
+</html>
